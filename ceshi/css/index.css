@@ -1,0 +1,214 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+img{
+	vertical-align: top;
+	border: none;
+}
+html,body{
+	width:100%;
+	height:100%;
+}
+.wrap{
+	width:100%;
+	height: 100%;
+}
+/*背景*/
+.swiper-container{
+	width: 100%;
+	height:100%;	
+}
+.swiper-slide>img{
+	width: 100%;
+	height: 100%;
+}
+.content1,.content2,.content3,.content4,.content5{
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+}
+/*content1*/
+.olgo_l{
+	width: 28.75%;	
+	position: absolute;
+	top: 2.992957%;
+	left: 1.875%;
+	z-index: 20;
+}
+.olgo_l img{
+	width: 100%;
+}
+.olgo_r{
+	width: 7.5%;
+	position: absolute;
+	top: 1.056338%;
+	right: 1.875%;
+	z-index: 20;
+}
+.olgo_r img{
+	width: 100%;
+}
+.title1{
+	width: 85.9375%;	
+	position: absolute;	
+	top: 14.964788%;
+	left: 1.875%;
+	z-index: 20;	
+}
+.title1 img{
+	width: 100%;
+}
+.title1_b{
+	width: 90.3125%;
+	position: absolute;
+	top: 32.922535%;
+	left: 1.875%;
+	z-index: 20;
+}
+.title1_b img{
+	width: 100%;
+}
+.car{
+	width: 100%;
+	position: absolute;
+	top: 62.147887%;
+	left: -21.875%;
+	z-index: 20;
+}
+.car>img{
+	width: 100%;
+}
+.wheel{
+	width: 13.4%;
+	position: absolute;
+	top: 32.3%;
+	left: 52.2%;
+	z-index: 20;
+	transform: rotateZ(0deg);
+}
+.wheel>img{
+	width: 100%;
+}
+
+/*content2*/
+.title2{
+	width: 85.9375%;	
+	position: absolute;	
+	top: 10.915492%;
+	left: 1.875%;
+	z-index: 20;	
+}
+.title2 img{
+	width: 100%;
+}
+
+.car1{
+	width: 91%;
+	position: absolute;
+	top: 61.443661%;
+	right: 0;
+	z-index: 20;
+}
+.car1 img{
+	width: 100%;
+}
+
+/*content3*/
+.title3{
+	width: 76.5625%;	
+	position: absolute;	
+	top: 13.028169%;
+	right: 4.0625%;
+	z-index: 20;		
+}
+.title3 img{
+	width: 100%;
+}
+
+.fa{
+	width: 55.9375%;
+	position: absolute;
+	top: 57.922535%;
+	left: 1.875%;
+	z-index: 20;
+}
+.fa img{
+	width: 100%;
+}
+/*content4*/
+.title4{
+	width: 80.9375%;	
+	position: absolute;	
+	top: 7.922535%;
+	left: 1.875%;
+	z-index: 20;	
+}
+.title4 img{
+	width: 100%;
+}
+.title4_b{
+	width: 80.3125%;
+	position: absolute;
+	top: 30.105633%;
+	left: 1.875%;
+	z-index: 20;
+}
+.title4_b img{
+	width: 100%;
+}
+.bg4_b{
+	width: 100%;
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	z-index: 20;
+}
+.bg4_b img{
+	width: 100%;
+}
+/*content5*/
+.title5{
+	width: 79.6875%;	
+	position: absolute;	
+	top: 7.922535%;
+	left: 1.875%;
+	z-index: 20;		
+}
+.title5 img{
+	width: 100%;
+}
+.button{
+	width: 45.625%;
+	position: absolute;
+	top: 26.056338%;
+	right: 4.6875%;
+	z-index: 20;
+}
+.button a{
+	display: inline-block;
+}
+.button a img{
+	width: 100%;
+}
+.car2{
+	width: 90%;
+	position: absolute;
+	top: 58.09859%;
+	left: 0;
+	z-index: 20;
+}
+.car2 img{
+	width: 100%;
+}
+.arrow{
+	width: 6.5625%;
+	position: absolute;
+	bottom: 2.464788%;
+	left:46.71875%;	
+}
+.arrow img{
+	width: 100%;
+}
